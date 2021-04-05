@@ -7,3 +7,7 @@ Letter input: o
 Result: 4
 
 '''
+string = input('Please provide me with your sentence: ')
+letter = input('Please provide me with your letter: ')
+finder = string.find(letter)
+print('your letter index is: ' + str(finder))
