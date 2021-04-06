@@ -9,3 +9,16 @@ that we haven't looked at yet. See if you can figure it out, otherwise
 come back to this task after you have learned about loops)
 
 '''
+# creating an empty list
+lst = []
+
+# number of elemetns as input
+i = int(input("Enter the number: "))
+
+# iterating till the range
+for i in range(0, 10):
+    ele = int(input())
+
+    lst.append(ele)  # adding the element
+
+print(lst)
