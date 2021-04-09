@@ -6,3 +6,9 @@ user_input = "hello"
 result = {"h": 1, "e": 1, "l": 2, "o": 1}
 
 '''
+
+string=input('enter the string: ')
+d= dict()
+for i in string:
+    d[i]=d.get(i, 0) + 1
+print(d)

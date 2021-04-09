@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17283f5c-2411-4454-8c0d-953ab2e66db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_01_run_it.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_03_yeehaw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_04_formula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_05_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_06_hello5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/01_python_fundamentals/01_07_area_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_01_cylinder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_02_days_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_03_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_04_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_05_convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/1_numbers/02_06_invest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/2_strings/02_07_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/2_strings/02_08_occurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/2_strings/02_09_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/2_strings/02_10_most_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/02_basic_datatypes/2_strings/02_11_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_06_product_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_07_duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_08_reorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_09_flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_10_unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/2_lists/03_11_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_12_list_to_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_13_tuple_to_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_14_list_of_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_16_pairing_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_17_first_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_18_occurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_19_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_20_dict_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_00_star_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_01_divisible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_02_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_03_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_04_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_05_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_06_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_07_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_08_star_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_09_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/04_conditionals_loops/04_10_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/05_string_formatting/05_01_fstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/05_string_formatting/05_02_office_supplies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/06_functions/06_01_tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/06_functions/06_02_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/06_functions/06_03_three_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_00_planets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_01_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_02_shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_03_freeform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_04_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/07_classes_objects_methods/07_05_freeform_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/08_file_io/08_00_long_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/08_file_io/08_01_words_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/08_file_io/08_02_writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/08_file_io/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_01_first_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_02_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_03_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_04_files_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_05_check_for_ints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/09_06_check_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/books/crime_and_punishment copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/books/crime_and_punishment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/books/pride_and_prejudice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/books/war_and_peace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/09_exceptions/integers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/10_testing/10_01_unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/10_testing/10_02_tdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/11_venvs/11_01_venv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/12_packages_modules/12_01_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/12_packages_modules/12_02_explore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/12_packages_modules/12_03_get_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/13_list_comprehensions/13_01_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/13_list_comprehensions/13_02_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/13_list_comprehensions/13_03_one_liner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/13_list_comprehensions/13_04_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/13_list_comprehensions/13_05_shirt_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/14_generators/14_01_generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/14_generators/14_02_divisible.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/14_generators/14_03_floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/15_aggregate_functions/15_01_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/15_aggregate_functions/15_02_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/15_aggregate_functions/15_03_my_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/16_variable_arguments/16_01_args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/16_variable_arguments/16_02_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/17_decorators/17_01_wraps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/17_decorators/17_02_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/18_lambdas/18_01_first_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/18_lambdas/18_02_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/18_lambdas/18_04_hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/18_lambdas/18_05_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/18_lambdas/18_06_tuple_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/different-solutions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/labs/different-solutions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodingNomands.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/labs" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/milenacudak96/python_fundamentals" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qkHvm7ZpQboUAV1nuwhBiUpkNx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.03_20_dict_tuples">
+    <configuration name="03_16_pairing_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_16_pairing_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_17_first_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_17_first_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_18_occurrence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_18_occurrence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_19_common" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_19_common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_20_dict_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_20_dict_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.03_16_pairing_tuples" />
+      <item itemvalue="Python.03_17_first_dict" />
+      <item itemvalue="Python.03_18_occurrence" />
+      <item itemvalue="Python.03_19_common" />
+      <item itemvalue="Python.03_20_dict_tuples" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_20_dict_tuples" />
+        <item itemvalue="Python.03_19_common" />
+        <item itemvalue="Python.03_18_occurrence" />
+        <item itemvalue="Python.03_17_first_dict" />
+        <item itemvalue="Python.03_16_pairing_tuples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17283f5c-2411-4454-8c0d-953ab2e66db8" name="Default Changelist" comment="" />
+      <created>1617616905192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617616905192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

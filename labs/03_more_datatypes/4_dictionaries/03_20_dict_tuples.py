@@ -10,3 +10,13 @@ NOTE: Check out the Python docs and see whether you can come up with a solution,
       Feel free to discuss any questions you have with your mentor and on the forum!
 
 '''
+# Python code to convert dictionary into list of tuples
+
+# Initialization of dictionary
+dict = {"item1": 5, "item2": 6, "item3": 1}
+
+# Converting into list of tuple
+list = [(k, v) for k, v in dict.items()]
+
+# Printing list of tuple
+print(list)

@@ -4,3 +4,14 @@ create a list of all the words in the string and print the word with the most
 occurrences.
 
 '''
+
+sentence= input('tell me the sentence: ')
+
+list = sentence.split()
+
+for words in list:
+    print(len(words))
+
+
+
+
