@@ -8,3 +8,12 @@ Use a loop to print the following table to the console:
  40 41 42 43 44 45 46 47 48 49
 
 '''
+line1 = list(range(0,10))
+line2 = list(range(10,20))
+line3 = list(range(20,30))
+line4 = list(range(40,50))
+
+print(line1)
+print(line2)
+print(line3)
+print(line4)

@@ -11,3 +11,9 @@ For example if n is 3, you print:
 '''
 
 n = 5
+
+for i in range(n):
+    for j in range(i):
+        print('*',end='')
+    print('*')
+

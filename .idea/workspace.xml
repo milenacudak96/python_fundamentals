@@ -99,13 +99,7 @@
       <change afterPath="$PROJECT_DIR$/labs/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/labs/different-solutions" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/labs/labs/different-solutions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodingNomands.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,20 +133,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.03_20_dict_tuples">
-    <configuration name="03_16_pairing_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_10_squares">
+    <configuration name="04_06_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/04_conditionals_loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_16_pairing_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/04_conditionals_loops/04_06_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +155,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_17_first_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_07_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/04_conditionals_loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_17_first_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/04_conditionals_loops/04_07_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,19 +176,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_18_occurrence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_08_star_pyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/04_conditionals_loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_18_occurrence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/04_conditionals_loops/04_08_star_pyramid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,19 +197,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_19_common" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_09_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/04_conditionals_loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_19_common.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/04_conditionals_loops/04_09_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,19 +218,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_20_dict_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_10_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/04_conditionals_loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/4_dictionaries/03_20_dict_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/04_conditionals_loops/04_10_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03_16_pairing_tuples" />
-      <item itemvalue="Python.03_17_first_dict" />
-      <item itemvalue="Python.03_18_occurrence" />
-      <item itemvalue="Python.03_19_common" />
-      <item itemvalue="Python.03_20_dict_tuples" />
+      <item itemvalue="Python.04_06_while" />
+      <item itemvalue="Python.04_07_search" />
+      <item itemvalue="Python.04_08_star_pyramid" />
+      <item itemvalue="Python.04_09_table" />
+      <item itemvalue="Python.04_10_squares" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_20_dict_tuples" />
-        <item itemvalue="Python.03_19_common" />
-        <item itemvalue="Python.03_18_occurrence" />
-        <item itemvalue="Python.03_17_first_dict" />
-        <item itemvalue="Python.03_16_pairing_tuples" />
+        <item itemvalue="Python.04_10_squares" />
+        <item itemvalue="Python.04_09_table" />
+        <item itemvalue="Python.04_08_star_pyramid" />
+        <item itemvalue="Python.04_07_search" />
+        <item itemvalue="Python.04_06_while" />
       </list>
     </recent_temporary>
   </component>
