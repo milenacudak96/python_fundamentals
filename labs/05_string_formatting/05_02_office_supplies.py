@@ -25,3 +25,7 @@ office = [
     {"full_name": "Creed Bratton", "item": "mung beans"},
     {"full_name": "Darryl Philbin", "item": "forklift"},
 ]
+n=0
+for i in office:
+    print(f'{office[n]["full_name"].split(" ")[1]}, {office[n]["full_name"].split(" ")[0]}           {office[n]["item"]}')
+    n=n+1

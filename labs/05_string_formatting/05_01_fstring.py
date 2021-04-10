@@ -18,3 +18,13 @@ famous_quotes = [
     {"full_name": "Nathan Myhrvold", "quote": "Software is a gas; it expands to fill its container."},
     {"full_name": "Alan Bennett", "quote": "Standards are always out of date.  That’s what makes them standards."}
 ]
+
+print(f'{famous_quotes[0]["full_name"]}: {famous_quotes[0]["quote"]}')
+print(f'{famous_quotes[1]["full_name"]}: {famous_quotes[1]["quote"]}')
+print(f'{famous_quotes[2]["full_name"]}: {famous_quotes[2]["quote"]}')
+print(f'{famous_quotes[3]["full_name"]}: {famous_quotes[3]["quote"]}')
+print(f'{famous_quotes[4]["full_name"]}: {famous_quotes[4]["quote"]}')
+print(f'{famous_quotes[5]["full_name"]}: {famous_quotes[5]["quote"]}')
+print(f'{famous_quotes[6]["full_name"]}: {famous_quotes[6]["quote"]}')
+
+
