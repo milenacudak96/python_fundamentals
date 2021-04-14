@@ -133,20 +133,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.06_03_three_functions">
-    <configuration name="05_01_fstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_04_inheritance">
+    <configuration name="07_00_planets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/05_string_formatting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/05_string_formatting/05_01_fstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_00_planets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,19 +155,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_02_office_supplies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_01_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/05_string_formatting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/05_string_formatting/05_02_office_supplies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_01_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,19 +176,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_01_tasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_02_shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/06_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/06_functions/06_01_tasks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_02_shapes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,19 +197,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_02_stats" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_03_freeform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/06_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/06_functions/06_02_stats.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_03_freeform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,19 +218,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_03_three_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_04_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/06_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/06_functions/06_03_three_functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_04_inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.05_01_fstring" />
-      <item itemvalue="Python.05_02_office_supplies" />
-      <item itemvalue="Python.06_01_tasks" />
-      <item itemvalue="Python.06_02_stats" />
-      <item itemvalue="Python.06_03_three_functions" />
+      <item itemvalue="Python.07_00_planets" />
+      <item itemvalue="Python.07_01_car" />
+      <item itemvalue="Python.07_02_shapes" />
+      <item itemvalue="Python.07_03_freeform" />
+      <item itemvalue="Python.07_04_inheritance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_03_three_functions" />
-        <item itemvalue="Python.06_02_stats" />
-        <item itemvalue="Python.06_01_tasks" />
-        <item itemvalue="Python.05_02_office_supplies" />
-        <item itemvalue="Python.05_01_fstring" />
+        <item itemvalue="Python.07_04_inheritance" />
+        <item itemvalue="Python.07_03_freeform" />
+        <item itemvalue="Python.07_02_shapes" />
+        <item itemvalue="Python.07_01_car" />
+        <item itemvalue="Python.07_00_planets" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +277,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />

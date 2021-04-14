@@ -10,3 +10,19 @@ In your CodingNomads folder create a new folder. Inside of that folder:
 7. Create a new virtual environment and install the packages from the requirements.txt file.
 
 '''
+
+
+class Point:
+    """Represents a point in 2-D space."""
+
+    def __init__(self, x=0, y=0):
+        self.x = x
+        self.y = y
+
+
+p = Point(5, 10)
+
+print(p.x + p.y)
+
+
+
