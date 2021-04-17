@@ -9,3 +9,6 @@ TIP:
     very common. head over to SO and find a solution!
 
 '''
+word = "CodingNomads"
+k = [i for i in word if i not in "aeiou"]
+print(k)

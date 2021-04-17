@@ -16,3 +16,15 @@ your own for this exercise but if you are stuck, some ideas include:
 - A Restaurant superclass, with Gourmet and FastFood subclasses.
 
 '''
+
+class Class1:
+    def __init__(self):
+        self.x = 5
+
+class Class2(Class1):
+    def __init__(self):
+        super().__init__()
+        self.y = 1
+
+b = Class2()
+print(b.y + b.x)

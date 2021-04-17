@@ -133,20 +133,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.07_04_inheritance">
-    <configuration name="07_00_planets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13_05_shirt_shop">
+    <configuration name="13_01_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_00_planets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_01_comprehension.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,19 +155,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_01_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_02_positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_01_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_02_positive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,19 +176,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_02_shapes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_03_one_liner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_02_shapes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_03_one_liner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,19 +197,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_03_freeform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_04_fish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_03_freeform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_04_fish.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,19 +218,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_04_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_05_shirt_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/07_classes_objects_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/07_classes_objects_methods/07_04_inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_05_shirt_shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.07_00_planets" />
-      <item itemvalue="Python.07_01_car" />
-      <item itemvalue="Python.07_02_shapes" />
-      <item itemvalue="Python.07_03_freeform" />
-      <item itemvalue="Python.07_04_inheritance" />
+      <item itemvalue="Python.13_01_comprehension" />
+      <item itemvalue="Python.13_02_positive" />
+      <item itemvalue="Python.13_03_one_liner" />
+      <item itemvalue="Python.13_04_fish" />
+      <item itemvalue="Python.13_05_shirt_shop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_04_inheritance" />
-        <item itemvalue="Python.07_03_freeform" />
-        <item itemvalue="Python.07_02_shapes" />
-        <item itemvalue="Python.07_01_car" />
-        <item itemvalue="Python.07_00_planets" />
+        <item itemvalue="Python.13_05_shirt_shop" />
+        <item itemvalue="Python.13_04_fish" />
+        <item itemvalue="Python.13_03_one_liner" />
+        <item itemvalue="Python.13_02_positive" />
+        <item itemvalue="Python.13_01_comprehension" />
       </list>
     </recent_temporary>
   </component>
