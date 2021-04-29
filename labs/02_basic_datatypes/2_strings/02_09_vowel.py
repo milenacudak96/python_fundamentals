@@ -7,10 +7,6 @@ CHALLENGE: Can you change the script so that it counts the occurrence of each in
 
 '''
 
-
-# Python3 code to count vowel in
-# a string using set
-
 # Function to count vowel
 def vowel_count(str):
     # Initializing count variable to 0

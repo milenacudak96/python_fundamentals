@@ -8,4 +8,5 @@ result_list = [('h', 'e', 'l', 'l', 'o'), ('w', 'o', 'r', 'l', 'd')]
 '''
 
 string = input('enter teh string: ')
-!!
+lst_tuple = [x for x  in zip(*[iter(string)])]
+print(lst_tuple)

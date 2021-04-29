@@ -21,4 +21,4 @@ for i in range(0, 10):
 
     lst.append(ele)  # adding the element
 
-print(lst)
+print(max(lst))

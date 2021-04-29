@@ -133,20 +133,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.13_05_shirt_shop">
-    <configuration name="13_01_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.09_03_else">
+    <configuration name="03_16_pairing_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_01_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/03_more_datatypes/3_tuples/03_16_pairing_tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,19 +155,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_02_positive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_01_tasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/06_functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_02_positive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/06_functions/06_01_tasks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,19 +176,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_03_one_liner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_01_first_exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/09_exceptions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_03_one_liner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/09_exceptions/09_01_first_exception.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,19 +197,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_04_fish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_02_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/09_exceptions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_04_fish.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/09_exceptions/09_02_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,19 +218,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_05_shirt_shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_03_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/13_list_comprehensions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/labs/09_exceptions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/13_list_comprehensions/13_05_shirt_shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labs/09_exceptions/09_03_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,19 +240,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.13_01_comprehension" />
-      <item itemvalue="Python.13_02_positive" />
-      <item itemvalue="Python.13_03_one_liner" />
-      <item itemvalue="Python.13_04_fish" />
-      <item itemvalue="Python.13_05_shirt_shop" />
+      <item itemvalue="Python.03_16_pairing_tuples" />
+      <item itemvalue="Python.06_01_tasks" />
+      <item itemvalue="Python.09_01_first_exception" />
+      <item itemvalue="Python.09_02_calculator" />
+      <item itemvalue="Python.09_03_else" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.13_05_shirt_shop" />
-        <item itemvalue="Python.13_04_fish" />
-        <item itemvalue="Python.13_03_one_liner" />
-        <item itemvalue="Python.13_02_positive" />
-        <item itemvalue="Python.13_01_comprehension" />
+        <item itemvalue="Python.09_03_else" />
+        <item itemvalue="Python.09_02_calculator" />
+        <item itemvalue="Python.09_01_first_exception" />
+        <item itemvalue="Python.06_01_tasks" />
+        <item itemvalue="Python.03_16_pairing_tuples" />
       </list>
     </recent_temporary>
   </component>

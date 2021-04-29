@@ -5,13 +5,10 @@ occurrences.
 
 '''
 
-sentence= input('tell me the sentence: ')
+sentence = str(input('tell me the sentence: '))
 
 list = sentence.split()
 
-for words in list:
-    print(len(words))
-
-
+print (max(list, key=len))
 
 

@@ -18,10 +18,10 @@ number = int(input('enter the number: '))
 
 
 def fun(number):
-    if number % 4 == 0 or number % 7 == 0:
-        print('True')
-    else:
-        print('False')
+        if number % 4 == 0 or number % 7 == 0:
+            print('True')
+        else:
+            print('False')
 
 
 fun(number)

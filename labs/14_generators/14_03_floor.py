@@ -4,3 +4,10 @@ Adapt your Generator expression from the previous Exercise
 What numbers do you get?
 
 '''
+courses = ['Intro', 'Intermediate', 'Advanced', 'Epic Hero']
+
+my_list = ["apple", "banana", "orange"]
+
+obj1 = enumerate(my_list)
+
+print(list(obj1))

@@ -11,9 +11,10 @@ lst = []
 i = int(input("Enter the number: "))
 
 # iterating till the range
-for i in range(0, 10):
+for i in range(0, 11):
     ele = int(input())
 
     lst.append(ele)  # adding the element
 
-print(lst[0],lst[3],lst[5],lst[7],lst[9])
+print(lst[3],lst[5],lst[7],lst[9])
+print(lst[10],lst[8],lst[6],lst[4], lst[2])
